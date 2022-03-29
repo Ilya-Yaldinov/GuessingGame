@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guessing  Game", "Guessing  Game\Guessing  Game.csproj", "{2F2D6FFD-39C1-4C90-9842-2F95D518BE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore", "GameCore\GameCore.csproj", "{A24A00D2-0A0C-473D-AABD-C612903260C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2D6FFD-39C1-4C90-9842-2F95D518BE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2D6FFD-39C1-4C90-9842-2F95D518BE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2D6FFD-39C1-4C90-9842-2F95D518BE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2D6FFD-39C1-4C90-9842-2F95D518BE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24A00D2-0A0C-473D-AABD-C612903260C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24A00D2-0A0C-473D-AABD-C612903260C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24A00D2-0A0C-473D-AABD-C612903260C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24A00D2-0A0C-473D-AABD-C612903260C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
